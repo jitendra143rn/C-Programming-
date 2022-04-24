@@ -1,3 +1,4 @@
+//PRINT NATURAL NUMBER 
 #include<stdio.h>
 void printN(int n);
 int main()
